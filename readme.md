@@ -15,12 +15,15 @@
 - [An experiment to assess the cost-benefits of code inspections in large scale software development](http://ieeexplore.ieee.org/abstract/document/601071/) Porter, Siy, Toman & Votta, 1997.
 - [Anywhere, anytime code inspections: using the Web to remove inspection bottlenecks in large-scale software development](https://dl.acm.org/citation.cfm?id=253234) Perpich, Perry, Porter, Votta & Wade, 1997.
 - [Design and Code Inspections to Reduce Errors in Program Development](https://link.springer.com/chapter/10.1007/978-3-642-59412-0_35) Fagan, 2002.
+- [Helping Developers Help Themselves: Automatic Decomposition of Code Review Changes](http://research.microsoft.com/pubs/238937/barnett2015hdh.pdf) Barnett et al. 2015 ([summary on the morning paper](https://blog.acolyer.org/2015/06/26/helping-developers-help-themselves-automatic-decomposition-of-code-review-changes/))
+- [Work Practices and Challenges in Pull-Based Development](http://swerl.tudelft.nl/twiki/pub/Main/TechnicalReports/TUD-SERG-2014-013.pdf) Gousios et al. 2015 ([summary on the morning paper](https://blog.acolyer.org/2015/06/23/work-practices-and-challenges-in-pull-based-development/))
 
 ## Articles
 
 - [Brian Guthrie's Feature Branching Rant](https://twitter.com/bguthrie/status/937750796334174209)
 - [Code Reviews: Just Do It](https://blog.codinghorror.com/code-reviews-just-do-it/)
 - [Designing Awesome Code Reviews](https://medium.com/unpacking-trunk-club/designing-awesome-code-reviews-5a0d9cd867e3)
+- [Effective Code Reviews Without the Pain](https://www.developer.com/tech/article.php/3579756/Effective-Code-Reviews-Without-the-Pain.htm)
 - [How I review code](https://engineering.tumblr.com/post/170040992289/how-i-review-code)
 - [Moving away from GitFlow](https://www.gamasutra.com/blogs/NiklasGray/20170927/306445/Moving_away_from_GitFlow.php)
 - [Ship Small Diffs](https://blog.skyliner.io/ship-small-diffs-741308bec0d1)
