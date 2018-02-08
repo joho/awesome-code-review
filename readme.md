@@ -35,6 +35,7 @@
 - [Handbook of Walkthroughs, Inspections, and Technical Reviews](https://www.amazon.com/Handbook-Walkthroughs-Inspections-Technical-Reviews/dp/0932633196)
 - [Peer Reviews in Software: A Practical Guide](https://www.amazon.com/Peer-Reviews-Software-Practical-Guide/dp/0201734850)
 - [Software Inspection: An Industry Best Practice](https://www.amazon.com/Software-Inspection-Industry-Best-Practice/dp/0818673400)
+- [Ultimate Guide to Code Reviews](https://www.codacy.com/ebooks/guide-to-code-reviews)
 - [What to Look for in a Code Review](https://leanpub.com/whattolookforinacodereview)
 
 ## Talks and Podcasts
