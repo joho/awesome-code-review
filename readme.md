@@ -27,6 +27,7 @@
 - [How I review code](https://engineering.tumblr.com/post/170040992289/how-i-review-code)
 - [Moving away from GitFlow](https://www.gamasutra.com/blogs/NiklasGray/20170927/306445/Moving_away_from_GitFlow.php)
 - [Ship Small Diffs](https://blog.skyliner.io/ship-small-diffs-741308bec0d1)
+- [Unlearning Toxic Behaviors in a Code Review Culture](https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c)
 - [Why I changed the way I think about Code Quality](https://medium.freecodecamp.org/why-i-changed-the-way-i-think-about-code-quality-88c5d8d57e68)
 
 ## Books
