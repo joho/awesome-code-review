@@ -2,7 +2,7 @@
 
 > A curated list of tools, articles, books, and any other resource related to code reviews.
 
-## Table of Contents
+## Contents
 
 - [Academic Papers](#academic-papers)
 - [Articles](#articles)
