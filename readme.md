@@ -29,6 +29,7 @@
 - [Ship Small Diffs](https://blog.skyliner.io/ship-small-diffs-741308bec0d1)
 - [Unlearning Toxic Behaviors in a Code Review Culture](https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c)
 - [Why I changed the way I think about Code Quality](https://medium.freecodecamp.org/why-i-changed-the-way-i-think-about-code-quality-88c5d8d57e68)
+- [You Cannot Win Engineering](https://www.engineyard.com/blog/how-improvisational-theater-can-improve-team-collaboration)
 
 ## Books
 
