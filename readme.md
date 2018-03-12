@@ -25,6 +25,7 @@
 - [Designing Awesome Code Reviews](https://medium.com/unpacking-trunk-club/designing-awesome-code-reviews-5a0d9cd867e3)
 - [Effective Code Reviews Without the Pain](https://www.developer.com/tech/article.php/3579756/Effective-Code-Reviews-Without-the-Pain.htm)
 - [How I review code](https://engineering.tumblr.com/post/170040992289/how-i-review-code)
+- [Pull Requests: How to Get and Give Good Feedback](https://kickstarter.engineering/pull-requests-how-to-get-and-give-good-feedback-f573469f0c44)
 - [Moving away from GitFlow](https://www.gamasutra.com/blogs/NiklasGray/20170927/306445/Moving_away_from_GitFlow.php)
 - [Ship Small Diffs](https://blog.skyliner.io/ship-small-diffs-741308bec0d1)
 - [Unlearning Toxic Behaviors in a Code Review Culture](https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c)
