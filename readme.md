@@ -2,7 +2,7 @@
 
 # Awesome Code Review [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of tools, articles, books, and any other resource related to code reviews.
+> A curated list of tools, articles, books, and any other resource related to [code review](https://en.wikipedia.org/wiki/Code_review): the systematic examination (sometimes referred to as peer review) of computer source code.
 
 ## Contents
 
