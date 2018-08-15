@@ -59,6 +59,7 @@ Code review is the systematic examination (sometimes referred to as peer review)
 - [Gerrit](https://www.gerritcodereview.com/) Open source git code review tool originating out of Google.
 - [Github](https://github.com) Git hosting and pioneer of the "Pull Request".
 - [Phabricator](https://www.phacility.com/phabricator/) Open source git/mercurial/svn code review tool originating out of Facebook.
+- [LGTM](https://lgtm.com) Automated Git code review for GitHub and Bitbucket pull requests for finding security vulnerabilities and code quality issues.
 - [Reviewable](https://reviewable.io/) Code review tool built on top of Github Pull Requests.
 - [Review Board](https://www.reviewboard.org/) Open source review tool that is SCM/platform neutral.
 - [Rubberduck](https://www.rubberduck.io) Browser extension to adds code-aware navigation to GitHub pull requests.
