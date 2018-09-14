@@ -58,6 +58,7 @@ Code review is the systematic examination (sometimes referred to as peer review)
 - [Crucible](https://www.atlassian.com/software/crucible) Atlassian's on-premise code review tool.
 - [Gerrit](https://www.gerritcodereview.com/) Open source git code review tool originating out of Google.
 - [Github](https://github.com) Git hosting and pioneer of the "Pull Request".
+- [TAOS-CI](https://github.com/nnsuite/TAOS-CI) GitHub based lightweight & modular continuous integration system for "Review less, merge faster".
 - [LGTM](https://lgtm.com) Automated Git code review for GitHub and Bitbucket pull requests for finding security vulnerabilities and code quality issues.
 - [Phabricator](https://www.phacility.com/phabricator/) Open source git/mercurial/svn code review tool originating out of Facebook.
 - [Reviewable](https://reviewable.io/) Code review tool built on top of Github Pull Requests.
