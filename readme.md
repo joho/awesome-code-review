@@ -46,7 +46,7 @@ Code review is the systematic examination (sometimes referred to as peer review)
 - [Handbook of Walkthroughs, Inspections, and Technical Reviews](https://www.amazon.com/Handbook-Walkthroughs-Inspections-Technical-Reviews/dp/0932633196) Older book covering more formal walkthroughs but covers politics and group dynamics in review well.
 - [Peer Reviews in Software: A Practical Guide](https://www.amazon.com/Peer-Reviews-Software-Practical-Guide/dp/0201734850) A practical guide to formal code inspections as a code review practice.
 - [Software Inspection: An Industry Best Practice](https://www.amazon.com/Software-Inspection-Industry-Best-Practice/dp/0818673400) Compendium of papers on code review practice.
-- [Ultimate Guide to Code Reviews](https://www.codacy.com/ebooks/guide-to-code-reviews) Codacy sponsored ebook of code review practices based on developer survey. 
+- [Ultimate Guide to Code Reviews](https://www.codacy.com/ebooks/guide-to-code-reviews) Codacy sponsored ebook of code review practices based on developer survey.
 - [What to Look for in a Code Review](https://leanpub.com/whattolookforinacodereview) JetBrains sponsored ebook of how to spot coding anti-patterns during review.
 
 ## Talks and Podcasts
@@ -59,13 +59,15 @@ Code review is the systematic examination (sometimes referred to as peer review)
 
 - [Crucible](https://www.atlassian.com/software/crucible) Atlassian's on-premise code review tool.
 - [Gerrit](https://www.gerritcodereview.com/) Open source git code review tool originating out of Google.
-- [GitHub](https://github.com) Git hosting and pioneer of the "Pull Request."
+- [GitHub](https://github.com) Git hosting and pioneer of the "Pull Request".
 - [LGTM](https://lgtm.com) Automated Git code review for GitHub and Bitbucket pull requests for finding security vulnerabilities and code quality issues.
 - [Phabricator](https://www.phacility.com/phabricator/) Open source git/mercurial/svn code review tool originating out of Facebook.
 - [PullRequest](https://www.pullrequest.com/) Code review as a service for GitHub pull requests.
+- [Pull Reminders](https://pullreminders.com) Automated Slack reminders and metrics for GitHub pull requests.
 - [Reviewable](https://reviewable.io/) Code review tool built on top of GitHub pull requests.
 - [Review Board](https://www.reviewboard.org/) Open source review tool that is SCM/platform neutral.
 - [Rubberduck](https://www.rubberduck.io) Browser extension to adds code-aware navigation to GitHub pull requests.
+- [Sider](https://sider.review/) Automated code review service for GitHub.
 - [Upsource](https://www.jetbrains.com/upsource/) JetBrain's on-premise git/mercurial/perforce/svn code review tool.
 
 ## Contribute
