@@ -58,6 +58,10 @@ Code review is the systematic examination (sometimes referred to as peer review)
 - [Goldilocks and the Three Code Reviews - Vaidehi Joshi RedDot Ruby Conf 2017](https://confreaks.tv/videos/reddotrubyconf2017-goldilocks-and-the-three-code-reviews) Finding just the right amount of code review by focussing on what is affecting.
 - [Implementing a Strong Code-Review Culture - Derek Prior Railsconf 2015](https://www.youtube.com/watch?v=PJjmw9TRB7s) How to instill a healthy code review culture in a team.
 
+#### Portuguese Talks and Podcasts
+- [Pull Requests e Code Review - Hipsters #64 - Hipsters Ponto Tech](https://hipsters.tech/pull-requests-e-code-review-hipsters-64/) Tired of so many branches, pull requests and technical revisions? We talked about techniques for doing it all in a cool way.
+- [DNE 155 - Code Review](https://devnaestrada.com.br/2018/05/04/code-review.html) Nesse episódio, Montanha, Ramon e Eduardo Matos voltam a se unir para falar de Code Review. O que é um bom code-review,como fazer, faz parte da cultura? Bora groselhar junto conosco?
+
 ## Tools
 
 - [Crucible](https://www.atlassian.com/software/crucible) Atlassian's on-premise code review tool.
