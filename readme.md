@@ -32,6 +32,7 @@ Code review is the systematic examination (sometimes referred to as peer review)
 - [Brian Guthrie's Feature Branching Rant](https://twitter.com/bguthrie/status/937750796334174209) Twitter thread on the pros and cons of GitHub's open source first model with regards to "in-company" code review practice.
 - [Building an Inclusive Code Review Culture](https://blog.plaid.com/building-an-inclusive-code-review-culture/) Guidelines to help ensure a collaborative and learning culture
 - [Code Review Etiquette](https://css-tricks.com/code-review-etiquette/) A few tips helping with positive engagement on code review.
+- [Code Review Guidelines for Humans](https://phauer.com/2018/code-review-guidelines/) Some guidelines for giving and getting code reviews.
 - [Code Reviews: Just Do It](https://blog.codinghorror.com/code-reviews-just-do-it/) Seminal post advocating for peer review of software back in 2006.
 - [Code Reviews at Google are lightweight and fast](https://www.michaelagreiler.com/code-reviews-at-google/) Details on how code review best practices and processes work at Google.
 - [Code Review Review is the Manager's Job](https://hecate.co/blog/code-review-review-is-the-managers-job) Why management should ensure code review is done and done well.
