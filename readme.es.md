@@ -1,12 +1,12 @@
 <img src="Awesome Code Review.png" alt="Awesome Code Review" />
 
-#   Increible Revisión de código [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+#   Increible Revisión de código [![Increible](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> Una lista de herramientas, artículos, libros y cualquier otro recurso relacionado con [revisión fr código](https://en.wikipedia.org/wiki/Code_review)
+> Una lista de herramientas, artículos, libros y cualquier otro recurso relacionado con [revisión de código](https://en.wikipedia.org/wiki/Code_review)
 
 Revisión de código es examinar sistemáticamente (a veces denominado revisión por pares) el código fuente de la computadora.
 
-Leer esto en otros lenguajes: English, Español.
+Leer esto en otros lenguajes: [English](https://github.com/joho/awesome-code-review/blob/master/readme.md), [Español](https://github.com/joho/awesome-code-review/blob/master/readme.es.md).
 
 ## Contenido
 
@@ -44,54 +44,54 @@ Leer esto en otros lenguajes: English, Español.
 - [Cómo Reviso el Código](https://engineering.tumblr.com/post/170040992289/how-i-review-code) Más consejos personales sobre cómo revisar mejor un Pull Request desde un ingeniero en Tumblr.
 - [Cómo Hacer una Revisión de Código](https://google.github.io/eng-practices/review/reviewer/) Una descripción detallada de cómo los ingenieros de Google hacen revisiones de código.
 - [Cómo Hacer Revisiones de Código Como un Humano](https://mtlynch.io/human-code-reviews-1/) Técnicas que tratan la revisión del código no solo como un proceso técnico sino también social.
-- [On Code Review](https://medium.com/@schrockn/on-code-reviews-b1c7c94d868c) Short article about tooling and personal elements of code review, from an ex-Facebook engineer.
-- [Pull Requests: How to Get and Give Good Feedback](https://kickstarter.engineering/pull-requests-how-to-get-and-give-good-feedback-f573469f0c44) Advice for both sides of the code review process, the reviewer and the reviewee.
-- [Ship Small Diffs](https://blog.skyliner.io/ship-small-diffs-741308bec0d1) Why it's better to review small changes rather than large ones.
-- [Stacked Pull Requests: Keeping GitHub Diffs Small](https://graysonkoonce.com/stacked-pull-requests-keeping-github-diffs-small/) A step-by-step process to split big PRs and increase review engagement.
-- [The Art of Humanizing Pull Requests](https://blog.usejournal.com/the-art-of-humanizing-pull-requests-prs-b520588eb345) Emoji rich guide to the human side of code review via pull requests.
-- [Towards Productive Technical Discussions](https://cate.blog/2018/07/03/towards-productive-technical-discussions/) Tactical questions and actions to push code review discussions into a more productive territory.
-- [Unlearning Toxic Behaviors in a Code Review Culture](https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c) A how-to guide for pull requests via how-not-too.
-- [Why I changed the way I think about Code Quality](https://medium.freecodecamp.org/why-i-changed-the-way-i-think-about-code-quality-88c5d8d57e68) Why code quality is about more than just the code.
+- [En Revisión de Código](https://medium.com/@schrockn/on-code-reviews-b1c7c94d868c) Artículo sobre herramientas y elementos personales de revisión de código, de un ex ingeniero de Facebook.
 
-## Books
+- [Pull Requests: Como obtener y dar feedback](https://kickstarter.engineering/pull-requests-how-to-get-and-give-good-feedback-f573469f0c44) Consejos ambos lados del proceso de revisión del código, el revisor y el revisor.
+- [Enviar pequeñas diferencias](https://blog.skyliner.io/ship-small-diffs-741308bec0d1) Por qué es mejor revisar los cambios pequeños en lugar de los grandes.
+- [Apilados Pull Requests: Manteniendo GitHub Diffs Pequeño](https://graysonkoonce.com/stacked-pull-requests-keeping-github-diffs-small/) Un paso a paso del proceso para dividir grandes Pull Request y aumentar el compromiso de revisión.
+- [El Arte de Humanizar Pull Requests](https://blog.usejournal.com/the-art-of-humanizing-pull-requests-prs-b520588eb345) Una rica guía de Emoji sobre el lado humano de la revisión de código a través de Pull Request.
+- [Hacia discusiones técnicas productivas](https://cate.blog/2018/07/03/towards-productive-technical-discussions/) Preguntas y acciones tácticas para impulsar las discusiones de revisión de código en un territorio más productivo.
+- [Unlearning Toxic Behaviors in a Code Review Culture](https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c) Desaprender comportamientos tóxicos en una cultura de revisión de código.
+- [Por qué cambié mi forma de pensar sobre la calidad del código](https://medium.freecodecamp.org/why-i-changed-the-way-i-think-about-code-quality-88c5d8d57e68) Por qué la calidad del código es más que solo codificar.
 
-- [Best Kept Secrets of Peer Code Review](https://www.goodreads.com/book/show/1563457.Best_Kept_Secrets_of_Peer_Code_Review) Older compilation of 10 essays on the practice of code reviews. Some repetition due to different authors covering the same territory.
-- [Handbook of Walkthroughs, Inspections, and Technical Reviews](https://www.amazon.com/Handbook-Walkthroughs-Inspections-Technical-Reviews/dp/0932633196) Older book covering more formal walkthroughs but covers politics and group dynamics in review well.
-- [Peer Reviews in Software: A Practical Guide](https://www.amazon.com/Peer-Reviews-Software-Practical-Guide/dp/0201734850) A practical guide to formal code inspections as a code review practice.
-- [Software Inspection: An Industry Best Practice](https://www.amazon.com/Software-Inspection-Industry-Best-Practice/dp/0818673400) Compendium of papers on code review practice.
-- [Ultimate Guide to Code Reviews](https://www.codacy.com/ebooks/guide-to-code-reviews) Codacy sponsored ebook of code review practices based on developer survey.
-- [What to Look for in a Code Review](https://leanpub.com/whattolookforinacodereview) JetBrains sponsored ebook of how to spot coding anti-patterns during review.
+## Libros
 
-## Talks and Podcasts
+- [Los secretos mejor guardados de la revisión del código de pares](https://www.goodreads.com/book/show/1563457.Best_Kept_Secrets_of_Peer_Code_Review) Compilación anterior de 10 ensayos sobre la práctica de revisiones de código. Algunas repeticiones debido a diferentes autores que cubren el mismo territorio.
+- [Manual de tutoriales, inspecciones y revisiones técnicas](https://www.amazon.com/Handbook-Walkthroughs-Inspections-Technical-Reviews/dp/0932633196) Un libro más antiguo que cubre recorridos más formales, pero cubre también la política y la dinámica de grupo en revisión.
+- [Revisiones por pares en software: una guía práctica](https://www.amazon.com/Peer-Reviews-Software-Practical-Guide/dp/0201734850) Una guía práctica para las inspecciones formales de códigos como práctica de revisión de códigos.
+- [Inspección de software: una mejor práctica de la industria](https://www.amazon.com/Software-Inspection-Industry-Best-Practice/dp/0818673400) Compendio de documentos sobre la práctica de revisión de código.
+- [Guía definitiva para revisiones de código](https://www.codacy.com/ebooks/guide-to-code-reviews) Codacy patrocinó un libro electrónico de prácticas de revisión de código basado en una encuesta a desarrolladores.
+- [Qué buscar en una revisión de código](https://leanpub.com/whattolookforinacodereview) JetBrains patrocinó el libro electrónico sobre cómo detectar los antipatrones de codificación durante la revisión.
 
-- [Code Reviews: Honesty, Kindness, Inspiration: Pick Three - Jacob Stoebel RubyConf 2017](http://confreaks.tv/videos/rubyconf2017-code-reviews-honesty-kindness-inspiration-pick-three) How to do effective code review while remaining kind to the original author.
-- [Goldilocks and the Three Code Reviews - Vaidehi Joshi RedDot Ruby Conf 2017](https://confreaks.tv/videos/reddotrubyconf2017-goldilocks-and-the-three-code-reviews) Finding just the right amount of code review by focussing on what is affecting.
-- [Implementing a Strong Code-Review Culture - Derek Prior Railsconf 2015](https://www.youtube.com/watch?v=PJjmw9TRB7s) How to instill a healthy code review culture in a team.
+## Charlas y Podcasts
 
-## Tools
+- [Revisión de Código: Honestidad, amabilidad, inspiración: elige tres - Jacob Stoebel RubyConf 2017](http://confreaks.tv/videos/rubyconf2017-code-reviews-honesty-kindness-inspiration-pick-three) Cómo hacer una revisión efectiva del código sin dejar de ser amable con el autor original.
+- [Ricitos de oro y las tres revisiones de código - Vaidehi Joshi RedDot Ruby Conf 2017](https://confreaks.tv/videos/reddotrubyconf2017-goldilocks-and-the-three-code-reviews) Encontrar la cantidad justa de revisión de código centrándose en lo que está afectando.
+- [Implementando una fuerte cultura de revisión de código - Derek Prior Railsconf 2015](https://www.youtube.com/watch?v=PJjmw9TRB7s) Cómo inculcar una cultura de revisión de código saludable en un equipo.
 
-- [Crucible](https://www.atlassian.com/software/crucible) Atlassian's on-premise code review tool.
-- [Gerrit](https://www.gerritcodereview.com/) Open source git code review tool originating out of Google.
-- [GitHub](https://github.com) Git hosting and pioneer of the "Pull Request".
-- [GitRise](https://www.gitrise.com/) Slack Reminders for GitHub pull requests
-- [LGTM](https://lgtm.com) Automated Git code review for GitHub and Bitbucket pull requests for finding security vulnerabilities and code quality issues.
-- [Phabricator](https://www.phacility.com/phabricator/) Open source git/mercurial/svn code review tool originating out of Facebook.
-- [PullRequest](https://www.pullrequest.com/) Code review as a service for GitHub pull requests.
-- [Pull Reminders](https://pullreminders.com) Automated Slack reminders and metrics for GitHub pull requests.
-- [Reviewable](https://reviewable.io/) Code review tool built on top of GitHub pull requests.
-- [Review Board](https://www.reviewboard.org/) Open source review tool that is SCM/platform neutral.
-- [Rubberduck](https://www.rubberduck.io) Browser extension to adds code-aware navigation to GitHub pull requests.
-- [Sider](https://sider.review/) Automated code review service for GitHub.
-- [Softagram](https://softagram.com/) Automated code change visualization (and dependency analytics) for pull requests, merge requests (GitLab) and patch sets (Gerrit).
-- [Upsource](https://www.jetbrains.com/upsource/) JetBrain's on-premise git/mercurial/perforce/svn code review tool.
+## Herramientas
 
-## Contribute
+- [Crucible](https://www.atlassian.com/software/crucible) Herramienta de revisión de código de Atlassian.
+- [Gerrit](https://www.gerritcodereview.com/) Herramienta de revisión de código git de código abierto originada en Google.
+- [GitHub](https://github.com) Git hosting y pionero de la "Pull Request".
+- [GitRise](https://www.gitrise.com/) Recordatorios de Slack para Pull Request.
+- [LGTM](https://lgtm.com) Revisión automatizada de código Git para Pull Request de GitHub y Bitbucket para encontrar vulnerabilidades de seguridad y problemas de calidad del código.
+- [Phabricator](https://www.phacility.com/phabricator/) Herramienta de revisión de código git / mercurial / svn de código abierto que se origina en Facebook.
+- [PullRequest](https://www.pullrequest.com/) Revisión de código como servicio para solicitudes de extracción de GitHub.
+- [Pull Reminders](https://pullreminders.com) Recordatorios automatizados de Slack y métricas para Pull Request de GitHub.
+- [Reviewable](https://reviewable.io/) Herramienta de revisión de código construida sobre Pull Request de GitHub.
+- [Review Board](https://www.reviewboard.org/) Herramienta de revisión de código abierto que es SCM / plataforma neutral.
+- [Rubberduck](https://www.rubberduck.io) Extensión del navegador para agregar navegación con reconocimiento de código a los Pull Request de GitHub.
+- [Sider](https://sider.review/) Servicio de revisión de código automatizado para GitHub.
+- [Softagram](https://softagram.com/) Visualización automatizada de cambio de código (y análisis de dependencia) para Pull Request, Merge Request (GitLab) y conjuntos de parches (Gerrit).
+- [Upsource](https://www.jetbrains.com/upsource/) La herramienta de revisión de código git / mercurial / perforce / svn en las instalaciones de JetBrain.
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+## Contribuir
 
-## License
+Las contribuciones son bienvenidas! Lea la [guia de contribución](contributing.md) Primero.
+
+## Licencia
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
-To the extent possible under law, [John Barton](https://johnbarton.co) has waived all copyright and
-related or neighboring rights to this work.
+En la medida de lo posible según la ley, [John Barton](https://johnbarton.co) ha renunciado a todos los derechos de autor y derechos afines o relacionados a este trabajo.
