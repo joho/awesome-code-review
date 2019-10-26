@@ -6,7 +6,7 @@
 
 Code review is the systematic examination (sometimes referred to as peer review) of computer source code.
 
-Read this in other languages: English, Español.
+Read this in other languages: [English](https://github.com/joho/awesome-code-review/blob/master/readme.md), [Español](https://github.com/joho/awesome-code-review/blob/master/readme.es.md).
 
 ## Contents
 
