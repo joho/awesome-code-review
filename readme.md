@@ -70,6 +70,7 @@ Code review is the systematic examination (sometimes referred to as peer review)
 
 ## Tools
 
+- [Codegrip](https://www.codegrip.tech/) An Automated Code Review Tool supporting 20+ languages. 
 - [Crucible](https://www.atlassian.com/software/crucible) Atlassian's on-premise code review tool.
 - [Gerrit](https://www.gerritcodereview.com/) Open source git code review tool originating out of Google.
 - [GitHub](https://github.com) Git hosting and pioneer of the "Pull Request".
