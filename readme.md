@@ -13,6 +13,7 @@ Code review is the systematic examination (sometimes referred to as peer review)
 - [Books](#books)
 - [Talks and Podcasts](#talks-and-podcasts)
 - [Tools](#tools)
+- [Training](#training)
 
 ## Academic Papers
 
@@ -88,6 +89,10 @@ Code review is the systematic examination (sometimes referred to as peer review)
 - [Softagram](https://softagram.com/) Automated code change visualization (and dependency analytics) for pull requests, merge requests (GitLab) and patch sets (Gerrit).
 - [SonarCloud](https://sonarcloud.io) Detect code smells, bugs and vulnerabilities in Azure DevOps, Bitbucket and GitHub repositories.
 - [Upsource](https://www.jetbrains.com/upsource/) JetBrain's on-premise git/mercurial/perforce/svn code review tool.
+
+## Training
+
+- [Code Review Workshops by Doctor McKayla](https://www.michaelagreiler.com/workshops/) Code review workshops to make code reviews fast and effective, and to improve collaboration.
 
 ## Contribute
 
