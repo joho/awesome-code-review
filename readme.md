@@ -72,6 +72,7 @@ Code review is the systematic examination (sometimes referred to as peer review)
 
 ## Tools
 
+- [Codacy](https://www.codacy.com/) Automated static analysis for GitHub, GitLab and Bitbucket.
 - [Crucible](https://www.atlassian.com/software/crucible) Atlassian's on-premise code review tool.
 - [Gerrit](https://www.gerritcodereview.com/) Open source git code review tool originating out of Google.
 - [GitHub](https://github.com) Git hosting and pioneer of the "Pull Request".
