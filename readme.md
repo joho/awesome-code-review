@@ -84,6 +84,7 @@ Code review is the systematic examination (sometimes referred to as peer review)
 - [Pull Reminders](https://pullreminders.com) Automated Slack reminders and metrics for GitHub pull requests.
 - [Reviewable](https://reviewable.io/) Code review tool built on top of GitHub pull requests.
 - [Review Board](https://www.reviewboard.org/) Open source review tool that is SCM/platform neutral.
+- [Revioo](https://revioo.io) Gamified community-based platform for code reviews.
 - [Rubberduck](https://www.rubberduck.io) Browser extension to adds code-aware navigation to GitHub pull requests.
 - [Sider](https://sider.review/) Automated code review service for GitHub.
 - [Softagram](https://softagram.com/) Automated code change visualization (and dependency analytics) for pull requests, merge requests (GitLab) and patch sets (Gerrit).
