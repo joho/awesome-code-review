@@ -1,4 +1,4 @@
-<img src="Awesome Code Review.png" alt="Awesome Code Review" />
++<img src="Awesome Code Review.png" alt="Awesome Code Review" />
 
 # Awesome Code Review [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -8,13 +8,16 @@ Code review is the systematic examination (sometimes referred to as peer review)
 
 ## Contents
 
-- [Academic Papers](#academic-papers)
-- [Articles](#articles)
-- [Books](#books)
-- [Talks and Podcasts](#talks-and-podcasts)
-- [Tools](#tools)
+| Number        | Content                                   |
+| ------------- |:-----------------------------------------:| 
+| 1             |[Academic Papers](#academic-papers)        |
+| 2             |[Articles](#articles)                      |   
+| 3             |[Books](#books)                            |  
+| 4             |[Talks and Podcasts](#talks-and-podcasts)  | 
+| 5             |[Tools](#tools)                            | 
 
-## Academic Papers
+
+## 1.Academic Papers
 
 - [An experiment to assess the cost-benefits of code inspections in large scale software development (Porter, Siy, Toman & Votta, 1997)](http://laser.cs.umass.edu/courses/cs521-621.Fall10/documents/PorterSiyetal.pdf) Early paper that tested a range of then-current review techniques including multi-stage review and code-review-via-meeting that found you can get most of the benefit in an offline, single pass, with two reviewers.
 - [Anywhere, anytime code inspections: using the Web to remove inspection bottlenecks in large-scale software development (Perpich, Perry, Porter, Votta & Wade, 1997)](https://dl.acm.org/citation.cfm?id=253234) One day in the far future the best way to review code will be on the world wide web.
@@ -25,7 +28,7 @@ Code review is the systematic examination (sometimes referred to as peer review)
 - [Modern Code Review: A Case Study at Google](https://sback.it/publications/icse2018seip.pdf) A study that shows how code reviews work at Google.
 - [Work Practices and Challenges in Pull-Based Development (Gousios et al. 2015)](https://sback.it/publications/icse2016b.pdf) ([summary on the morning paper](https://blog.acolyer.org/2015/06/23/work-practices-and-challenges-in-pull-based-development/)) Field study of how GitHub pull requests are used in the wild.
 
-## Articles
+## 2.Articles
 
 - [8 Tips for Great Code Reviews](https://kellysutton.com/2018/10/08/8-tips-for-great-code-reviews.html) A few basic rules for a better code review process.
 - [A Better Code Review](https://www.giladpeleg.com/blog/better-code-review/) Decent set of patterns and anti-patterns for code reviews.
@@ -55,7 +58,7 @@ Code review is the systematic examination (sometimes referred to as peer review)
 - [Unlearning Toxic Behaviors in a Code Review Culture](https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c) A how-to guide for pull requests via how-not-too.
 - [Why I changed the way I think about Code Quality](https://medium.freecodecamp.org/why-i-changed-the-way-i-think-about-code-quality-88c5d8d57e68) Why code quality is about more than just the code.
 
-## Books
+## 3.Books
 
 - [Best Kept Secrets of Peer Code Review](https://www.goodreads.com/book/show/1563457.Best_Kept_Secrets_of_Peer_Code_Review) Older compilation of 10 essays on the practice of code reviews. Some repetition due to different authors covering the same territory.
 - [Handbook of Walkthroughs, Inspections, and Technical Reviews](https://www.amazon.com/Handbook-Walkthroughs-Inspections-Technical-Reviews/dp/0932633196) Older book covering more formal walkthroughs but covers politics and group dynamics in review well.
@@ -64,14 +67,14 @@ Code review is the systematic examination (sometimes referred to as peer review)
 - [Ultimate Guide to Code Reviews](https://www.codacy.com/ebooks/guide-to-code-reviews) Codacy sponsored ebook of code review practices based on developer survey.
 - [What to Look for in a Code Review](https://leanpub.com/whattolookforinacodereview) JetBrains sponsored ebook of how to spot coding anti-patterns during review.
 
-## Talks and Podcasts
+## 4.Talks and Podcasts
 
 - [Code Reviews: Honesty, Kindness, Inspiration: Pick Three - Jacob Stoebel RubyConf 2017](http://confreaks.tv/videos/rubyconf2017-code-reviews-honesty-kindness-inspiration-pick-three) How to do effective code review while remaining kind to the original author.
 - [Goldilocks and the Three Code Reviews - Vaidehi Joshi RedDot Ruby Conf 2017](https://confreaks.tv/videos/reddotrubyconf2017-goldilocks-and-the-three-code-reviews) Finding just the right amount of code review by focussing on what is affecting.
 - [Implementing a Strong Code-Review Culture - Derek Prior Railsconf 2015](https://www.youtube.com/watch?v=PJjmw9TRB7s) How to instill a healthy code review culture in a team.
 - [Michaela Greiler on Code Reviews - SE Radio 2020](https://www.se-radio.net/2020/02/episode-400-michaela-greiler-on-code-reviews/) Michaela Greiler discusses the importance of code reviews and how to conduct them on the Software Engineering Radio podcast.
 
-## Tools
+## 5.Tools
 
 - [Crucible](https://www.atlassian.com/software/crucible) Atlassian's on-premise code review tool.
 - [Gerrit](https://www.gerritcodereview.com/) Open source git code review tool originating out of Google.
