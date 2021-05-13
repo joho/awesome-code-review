@@ -73,6 +73,7 @@ Code review is the systematic examination (sometimes referred to as peer review)
 
 ## Tools
 
+- [CodeApprove](https://codeapprove.com) Streamlined in-browser code review tool for GitHub pull requests.
 - [Crucible](https://www.atlassian.com/software/crucible) Atlassian's on-premise code review tool.
 - [Gerrit](https://www.gerritcodereview.com/) Open source git code review tool originating out of Google.
 - [GitHub](https://github.com) Git hosting and pioneer of the "Pull Request".
