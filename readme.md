@@ -20,6 +20,7 @@ Code review is the systematic examination (sometimes referred to as peer review)
 - [Anywhere, anytime code inspections: using the Web to remove inspection bottlenecks in large-scale software development (Perpich, Perry, Porter, Votta & Wade, 1997)](https://dl.acm.org/citation.cfm?id=253234) One day in the far future the best way to review code will be on the world wide web.
 - [Characteristics of Useful Code Reviews: An Empirical Study at Microsoft (Bosu, Greiler, Bird, 2015)](https://www.michaelagreiler.com/wp-content/uploads/2019/02/Characteristics-Of-Useful-Comments.pdf) This paper reports the findings of a large scale qualitative and quantitative study focusing on understanding which code review comments are considered useful by developers.  
 - [Code Reviewing in the Trenches: Understanding Challenges, Best Practices, and Tool Needs (MacLeod, Greiler, Storey, Bird, Czerwonka, 2018)](https://www.michaelagreiler.com/wp-content/uploads/2019/03/Code-Reviewing-in-the-Trenches-Understanding-Challenges-Best-Practices-and-Tool-Needs.pdf) A large scale study of over 900 Microsoft developers to understand their code review processes, their motivations to do code reviews, and which pitfalls and best practices they encounter.
+- [Cognitive-support code review tools: improved efficiency of change-based code review by guiding and assisting reviewers](https://www.repo.uni-hannover.de/handle/123456789/9217) Tobias Baum's PhD thesis on code review tooling and the role it plays reducing cognitive load for human reviewers.
 - [Design and Code Inspections to Reduce Errors in Program Development (Fagan, 2002)](https://link.springer.com/chapter/10.1007/978-3-642-59412-0_35) Using a more formal process, particularly with defined roles for each participant and drive a big increase in error detection during review.
 - [Helping Developers Help Themselves: Automatic Decomposition of Code Review Changes (Barnett et al. 2015)](http://research.microsoft.com/pubs/238937/barnett2015hdh.pdf) ([summary on the morning paper](https://blog.acolyer.org/2015/06/26/helping-developers-help-themselves-automatic-decomposition-of-code-review-changes/)) Research into automatically splitting big diffs into smaller diffs leading to better reviews.
 - [Modern Code Review: A Case Study at Google](https://sback.it/publications/icse2018seip.pdf) A study that shows how code reviews work at Google.
@@ -44,16 +45,26 @@ Code review is the systematic examination (sometimes referred to as peer review)
 - [Feedback Ladders: How We Encode Code Reviews at Netlify](https://www.netlify.com/blog/2020/03/05/feedback-ladders-how-we-encode-code-reviews-at-netlify/) Helpful framwork for reviewers to classify how actionable specific pieces of review feedback are.
 - [How Code Reviews work at Microsoft](https://www.michaelagreiler.com/code-reviews-at-microsoft-how-to-code-review-at-a-large-software-company/) A in-depth analysis on how the code review process looks like at Microsoft.
 - [How I review code](https://engineering.tumblr.com/post/170040992289/how-i-review-code) More personal advice on how to best review a pull request from an engineer at Tumblr.
+- [How to Build an Awesome Code Review Culture](https://www.pullrequest.com/blog/how-to-build-a-great-code-review-culture/) Good advice for fostering a healthy code review culture.
 - [How to do a code review](https://google.github.io/eng-practices/review/reviewer/) A thorough description of how Google engineers do code reviews, from the Google's Engineering Practices documentation.
 - [How to Do Code Reviews Like a Human](https://mtlynch.io/human-code-reviews-1/) Techniques that treat the code review as not only a technical process but a social one as well.
+- [How to Give Great Code Reviews When You're New to a System](https://www.pullrequest.com/blog/how-to-give-great-code-reviews-when-youre-new-to-a-system/) Good advice for reviewing code for a new team.
 - [On Code Review](https://medium.com/@schrockn/on-code-reviews-b1c7c94d868c) Short article about tooling and personal elements of code review, from an ex-Facebook engineer.
+- [Pull Requests 101](https://www.pullrequest.com/blog/pull-requests-101/) A basic summarization of what pull requests are and why they're valuable written for non-technical audiences.
 - [Pull Requests: How to Get and Give Good Feedback](https://kickstarter.engineering/pull-requests-how-to-get-and-give-good-feedback-f573469f0c44) Advice for both sides of the code review process, the reviewer and the reviewee.
 - [Ship Small Diffs](https://blog.skyliner.io/ship-small-diffs-741308bec0d1) Why it's better to review small changes rather than large ones.
+- [Slaying Dragon Code Reviews](https://www.pullrequest.com/blog/slaying-dragon-code-reviews/) Good practices to keep in mind when you have to review very big pull requests.
 - [Stacked Pull Requests: Keeping GitHub Diffs Small](https://graysonkoonce.com/stacked-pull-requests-keeping-github-diffs-small/) A step-by-step process to split big PRs and increase review engagement.
 - [The Art of Humanizing Pull Requests](https://blog.usejournal.com/the-art-of-humanizing-pull-requests-prs-b520588eb345) Emoji rich guide to the human side of code review via pull requests.
 - [Towards Productive Technical Discussions](https://cate.blog/2018/07/03/towards-productive-technical-discussions/) Tactical questions and actions to push code review discussions into a more productive territory.
 - [Unlearning Toxic Behaviors in a Code Review Culture](https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c) A how-to guide for pull requests via how-not-too.
+- [Using Code Style Checks to Avoid Code Review Debates](https://www.pullrequest.com/blog/using-code-style-checks-to-avoid-code-review-debates/) How to best leverage automated style linters to avoid code review bickering and save time reviewing.
+- [What To Look For When Reviewing C#] Common problems and things to look for when reviewing C#. Written by the engineering manager for the ASP.NET Core MVC team at Microsoft.
+- [What We Can Learn About Code Review From the Apache Spark Project](https://www.pullrequest.com/blog/what-we-can-learn-about-code-review-from-the-apache-spark-project/) Details about the custom PR management UI and labeler bot the Spark team created to optimize their code review process. 
+- [What We Can Learn About Code Review From the Apache Superset Project](https://www.pullrequest.com/blog/what-we-can-learn-about-code-review-from-the-apache-superset-project/) An examination of the tools and processes the Superset team put into place to create an impressive, effective code review process.
 - [Why I changed the way I think about Code Quality](https://medium.freecodecamp.org/why-i-changed-the-way-i-think-about-code-quality-88c5d8d57e68) Why code quality is about more than just the code.
+- [Why Your Team Isn't Reviewing Pull Requests](https://www.pullrequest.com/blog/why-your-team-isnt-reviewing-pull-requests/) The less frequently discussed reasons why some developers avoid reviewing their teammates' code and good tips for encouraging them to.
+- [Writing A Great Pull Request Description](https://www.pullrequest.com/blog/writing-a-great-pull-request-description/) A simple, [frequently cited](https://github.com/Azure/azure-cli/pull/18433#issuecomment-864879928) guide for how to write a good PR description.
 
 ## Books
 
@@ -80,8 +91,10 @@ Code review is the systematic examination (sometimes referred to as peer review)
 - [GitRise](https://www.gitrise.com/) Slack Reminders for GitHub pull requests
 - [LGTM](https://lgtm.com) Automated Git code review for GitHub and Bitbucket pull requests for finding security vulnerabilities and code quality issues.
 - [Phabricator](https://www.phacility.com/phabricator/) Open source git/mercurial/svn code review tool originating out of Facebook.
-- [PullRequest](https://www.pullrequest.com/) Code review as a service for GitHub pull requests.
+- [PullRequest](https://www.pullrequest.com/) On-demand code review as a service for pull requests.
+- [Pull Analytics](https://pullpanda.com/analytics) PR metrics and analytics for things like turnaround time, unusual size, etc.
 - [Pull Reminders](https://pullreminders.com) Automated Slack reminders and metrics for GitHub pull requests.
+- [Pull Assigner](https://pullpanda.com/assigner) A tool for creating rules for automated PR assignment.
 - [Reviewable](https://reviewable.io/) Code review tool built on top of GitHub pull requests.
 - [Review Board](https://www.reviewboard.org/) Open source review tool that is SCM/platform neutral.
 - [Rubberduck](https://www.rubberduck.io) Browser extension to adds code-aware navigation to GitHub pull requests.
