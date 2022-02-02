@@ -13,6 +13,7 @@ Code review is the systematic examination (sometimes referred to as peer review)
 - [Books](#books)
 - [Talks and Podcasts](#talks-and-podcasts)
 - [Tools](#tools)
+- [Training](#training)
 
 ## Academic Papers
 
@@ -75,6 +76,7 @@ Code review is the systematic examination (sometimes referred to as peer review)
 ## Tools
 
 - [Crucible](https://www.atlassian.com/software/crucible) Atlassian's on-premise code review tool.
+- [CodeStream](https://www.codestream.com/) Code Collaboration Tool that allows for continious code reviews.
 - [Gerrit](https://www.gerritcodereview.com/) Open source git code review tool originating out of Google.
 - [GitHub](https://github.com) Git hosting and pioneer of the "Pull Request".
 - [Gitpod](https://gitpod.io) Code review pull requests in a full IDE within your browser.
@@ -91,6 +93,10 @@ Code review is the systematic examination (sometimes referred to as peer review)
 - [SonarCloud](https://sonarcloud.io) Detect code smells, bugs and vulnerabilities in Azure DevOps, Bitbucket and GitHub repositories.
 - [Upsource](https://www.jetbrains.com/upsource/) JetBrain's on-premise git/mercurial/perforce/svn code review tool.
 - [Viezly](https://viezly.com) Code review service with pull request visualization and enhanced navigation between changes.
+
+## Training
+
+- [Code Review Workshops by Doctor McKayla](https://www.michaelagreiler.com/workshops/) Code review workshops to make code reviews fast and effective, and to improve collaboration.
 
 ## Contribute
 
