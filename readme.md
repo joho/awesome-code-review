@@ -49,6 +49,7 @@ Code review is the systematic examination (sometimes referred to as peer review)
 - [How to do a code review](https://google.github.io/eng-practices/review/reviewer/) A thorough description of how Google engineers do code reviews, from the Google's Engineering Practices documentation.
 - [How to Do Code Reviews Like a Human](https://mtlynch.io/human-code-reviews-1/) Techniques that treat the code review as not only a technical process but a social one as well.
 - [How to Give Great Code Reviews When You're New to a System](https://www.pullrequest.com/blog/how-to-give-great-code-reviews-when-youre-new-to-a-system/) Good advice for reviewing code for a new team.
+- [Modern Code Reviews](https://rethought.se/research/modern-code-reviews/) Arguably belongs in academic paper, but it's a website giving an overview of evidence on code review by facet/context. Links off to a bunch of papers.
 - [On Code Review](https://medium.com/@schrockn/on-code-reviews-b1c7c94d868c) Short article about tooling and personal elements of code review, from an ex-Facebook engineer.
 - [Pull Requests 101](https://www.pullrequest.com/blog/pull-requests-101/) A basic summarization of what pull requests are and why they're valuable written for non-technical audiences.
 - [Pull Requests: How to Get and Give Good Feedback](https://kickstarter.engineering/pull-requests-how-to-get-and-give-good-feedback-f573469f0c44) Advice for both sides of the code review process, the reviewer and the reviewee.
