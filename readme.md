@@ -9,14 +9,14 @@ Code review is the systematic examination (sometimes referred to as peer review)
 ## Contents
 
 - [Awesome Code Review ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-code-review-)
-  - [Contents](#contents)
-  - [Academic Papers](#academic-papers)
-  - [Articles](#articles)
-  - [Books](#books)
-  - [Talks and Podcasts](#talks-and-podcasts)
-  - [Tools](#tools)
-  - [Contribute](#contribute)
-  - [License](#license)
+- [Contents](#contents)
+- [Academic Papers](#academic-papers)
+- [Articles](#articles)
+- [Books](#books)
+- [Talks and Podcasts](#talks-and-podcasts)
+- [Tools](#tools)
+- [Contribute](#contribute)
+- [License](#license)
 
 ## Academic Papers
 
