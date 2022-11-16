@@ -6,7 +6,7 @@ project you agree to abide by its terms.
 
 ---
 
-To add, remove, or change things on the list please submit a pull request that adheres to the following guidelines:
+To add, remove, or change things on the list, please submit a pull request that adheres to the following guidelines:
 
 * List items should be sorted alphabetically.
 * Each item should be limited to one link.
