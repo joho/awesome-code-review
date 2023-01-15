@@ -74,6 +74,8 @@ Code review is the systematic examination (sometimes referred to as peer review)
 
 ## Tools
 
+- [Collaborator](https://smartbear.com/product/collaborator/) Collaborator by SmartBear is a peer code and document review tool.
+- [CodeScene](https://codescene.com/) CodeScene is a code review tool that goes beyond traditional static code analysis.
 - [Crucible](https://www.atlassian.com/software/crucible) Atlassian's on-premise code review tool.
 - [Gerrit](https://www.gerritcodereview.com/) Open source git code review tool originating out of Google.
 - [GitHub](https://github.com) Git hosting and pioneer of the "Pull Request".
@@ -85,12 +87,15 @@ Code review is the systematic examination (sometimes referred to as peer review)
 - [Pull Reminders](https://pullreminders.com) Automated Slack reminders and metrics for GitHub pull requests.
 - [Reviewable](https://reviewable.io/) Code review tool built on top of GitHub pull requests.
 - [Review Board](https://www.reviewboard.org/) Open source review tool that is SCM/platform neutral.
+- [Rhodecode](https://www.reviewboard.org/https://rhodecode.com/) A web-based tool that assists you in performing code reviews. It supports three version control systems: Mercurial, Git, and Subversion.
 - [Rubberduck](https://www.rubberduck.io) Browser extension to adds code-aware navigation to GitHub pull requests.
 - [Sider](https://sider.review/) Automated code review service for GitHub.
 - [Softagram](https://softagram.com/) Automated code change visualization (and dependency analytics) for pull requests, merge requests (GitLab) and patch sets (Gerrit).
 - [SonarCloud](https://sonarcloud.io) Detect code smells, bugs and vulnerabilities in Azure DevOps, Bitbucket and GitHub repositories.
 - [Upsource](https://www.jetbrains.com/upsource/) JetBrain's on-premise git/mercurial/perforce/svn code review tool.
+- [Veracode](https://www.veracode.com/) Veracode provides a suite of code review tools that let you automate testing, accelerate development, integrate a remediation process.
 - [Viezly](https://viezly.com) Code review service with pull request visualization and enhanced navigation between changes.
+- [Visual Expert](https://www.visual-expert.com/) Enterprise solution for code review specializing in database code.
 
 ## Contribute
 
