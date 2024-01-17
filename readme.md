@@ -31,6 +31,7 @@ Code review is the systematic examination (sometimes referred to as peer review)
 
 ## Articles
 
+- [Code Review – From Good to Great](https://sizovs.net/2020/07/19/the-code-review/) People rarely talk about it, but in many companies, code review makes developers feel like sh%t. This is a practical guide on how to create a code review process that developers love. 
 - [8 Tips for Great Code Reviews](https://kellysutton.com/2018/10/08/8-tips-for-great-code-reviews.html) A few basic rules for a better code review process.
 - [A Better Code Review](https://www.giladpeleg.com/blog/better-code-review/) Decent set of patterns and anti-patterns for code reviews.
 - [A Zen Manifesto for Effective Code Reviews](https://medium.freecodecamp.org/a-zen-manifesto-for-effective-code-reviews-e30b5c95204a) Practical tips for the submitter and the reviewer to make effective code reviews.
