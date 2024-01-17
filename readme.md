@@ -59,6 +59,7 @@ Code review is the systematic examination (sometimes referred to as peer review)
 - [Towards Productive Technical Discussions](https://cate.blog/2018/07/03/towards-productive-technical-discussions/) Tactical questions and actions to push code review discussions into a more productive territory.
 - [Unlearning Toxic Behaviors in a Code Review Culture](https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c) A how-to guide for pull requests via how-not-too.
 - [Why I changed the way I think about Code Quality](https://medium.freecodecamp.org/why-i-changed-the-way-i-think-about-code-quality-88c5d8d57e68) Why code quality is about more than just the code.
+- [Best Practices, Guidelines and Tools for Code Reviews by Samuel Akinosho](https://hackernoon.com/best-practices-guidelines-and-tools-for-code-reviews) A guide to code review best practices, and tools to aid an effective code-review.
 
 ## Books
 
