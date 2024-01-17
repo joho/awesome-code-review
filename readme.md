@@ -76,6 +76,10 @@ Code review is the systematic examination (sometimes referred to as peer review)
 - [Implementing a Strong Code-Review Culture - Derek Prior Railsconf 2015](https://www.youtube.com/watch?v=PJjmw9TRB7s) How to instill a healthy code review culture in a team.
 - [Michaela Greiler on Code Reviews - SE Radio 2020](https://www.se-radio.net/2020/02/episode-400-michaela-greiler-on-code-reviews/) Michaela Greiler discusses the importance of code reviews and how to conduct them on the Software Engineering Radio podcast.
 
+#### Portuguese Talks and Podcasts
+- [Pull Requests e Code Review - Hipsters #64 - Hipsters Ponto Tech](https://hipsters.tech/pull-requests-e-code-review-hipsters-64/) Tired of so many branches, pull requests and technical revisions? We talked about techniques for doing it all in a cool way.
+- [DNE 155 - Code Review](https://devnaestrada.com.br/2018/05/04/code-review.html) Nesse episódio, Montanha, Ramon e Eduardo Matos voltam a se unir para falar de Code Review. O que é um bom code-review,como fazer, faz parte da cultura? Bora groselhar junto conosco?
+
 ## Tools
 
 - [Axolo](https://www.axolo.co) Github/GitLab Slack integration. Create one ephemeral channel per pull request/ merge request.
