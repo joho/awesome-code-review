@@ -1,10 +1,12 @@
 <img src="Awesome Code Review.png" alt="Awesome Code Review" />
 
-# Awesome Code Review [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+#   Awesome Code Review [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of tools, articles, books, and any other resource related to [code review](https://en.wikipedia.org/wiki/Code_review)
 
 Code review is the systematic examination (sometimes referred to as peer review) of computer source code.
+
+Read this in other languages: [English](https://github.com/joho/awesome-code-review/blob/master/readme.md), [Español](https://github.com/joho/awesome-code-review/blob/master/readme.es.md).
 
 ## Contents
 
