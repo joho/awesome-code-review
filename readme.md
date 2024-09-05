@@ -22,7 +22,7 @@ Code review is the systematic examination (sometimes referred to as peer review)
 
 - [An experiment to assess the cost-benefits of code inspections in large scale software development (Porter, Siy, Toman & Votta, 1997)](http://laser.cs.umass.edu/courses/cs521-621.Fall10/documents/PorterSiyetal.pdf) Early paper that tested a range of then-current review techniques including multi-stage review and code-review-via-meeting that found you can get most of the benefit in an offline, single pass, with two reviewers.
 - [Anywhere, anytime code inspections: using the Web to remove inspection bottlenecks in large-scale software development (Perpich, Perry, Porter, Votta & Wade, 1997)](https://dl.acm.org/citation.cfm?id=253234) One day in the far future the best way to review code will be on the world wide web.
-- [Characteristics of Useful Code Reviews: An Empirical Study at Microsoft (Bosu, Greiler, Bird, 2015)](https://www.michaelagreiler.com/wp-content/uploads/2019/02/Characteristics-Of-Useful-Comments.pdf) This paper reports the findings of a large scale qualitative and quantitative study focusing on understanding which code review comments are considered useful by developers.  
+- [Characteristics of Useful Code Reviews: An Empirical Study at Microsoft (Bosu, Greiler, Bird, 2015)](https://www.michaelagreiler.com/wp-content/uploads/2019/02/Characteristics-Of-Useful-Comments.pdf) This paper reports the findings of a large scale qualitative and quantitative study focusing on understanding which code review comments are considered useful by developers.
 - [Code Reviewing in the Trenches: Understanding Challenges, Best Practices, and Tool Needs (MacLeod, Greiler, Storey, Bird, Czerwonka, 2018)](https://www.michaelagreiler.com/wp-content/uploads/2019/03/Code-Reviewing-in-the-Trenches-Understanding-Challenges-Best-Practices-and-Tool-Needs.pdf) A large scale study of over 900 Microsoft developers to understand their code review processes, their motivations to do code reviews, and which pitfalls and best practices they encounter.
 - [Design and Code Inspections to Reduce Errors in Program Development (Fagan, 2002)](https://link.springer.com/chapter/10.1007/978-3-642-59412-0_35) Using a more formal process, particularly with defined roles for each participant and drive a big increase in error detection during review.
 - [Helping Developers Help Themselves: Automatic Decomposition of Code Review Changes (Barnett et al. 2015)](http://research.microsoft.com/pubs/238937/barnett2015hdh.pdf) ([summary on the morning paper](https://blog.acolyer.org/2015/06/26/helping-developers-help-themselves-automatic-decomposition-of-code-review-changes/)) Research into automatically splitting big diffs into smaller diffs leading to better reviews.
@@ -83,13 +83,12 @@ Code review is the systematic examination (sometimes referred to as peer review)
 - [Gerrit](https://www.gerritcodereview.com/) Open source git code review tool originating out of Google.
 - [GitHub](https://github.com) Git hosting and pioneer of the "Pull Request".
 - [Gitpod](https://gitpod.io) Code review pull requests in a full IDE within your browser.
-- [GitRise](https://www.gitrise.com/) Slack Reminders for GitHub pull requests
 - [LGTM](https://lgtm.com) Automated Git code review for GitHub and Bitbucket pull requests for finding security vulnerabilities and code quality issues.
 - [Phabricator](https://www.phacility.com/phabricator/) Open source git/mercurial/svn code review tool originating out of Facebook.
+- [PullNotifier](https://www.pullnotifier.com/) Improve pull request visibility and overall productivity for dev teams using Github and Slack.
 - [PullRequest](https://www.pullrequest.com/) Code review as a service for GitHub pull requests.
 - [Reviewable](https://reviewable.io/) Code review tool built on top of GitHub pull requests.
 - [Review Board](https://www.reviewboard.org/) Open source review tool that is SCM/platform neutral.
-- [Rubberduck](https://www.rubberduck.io) Browser extension to adds code-aware navigation to GitHub pull requests.
 - [Sider](https://sider.review/) Automated code review service for GitHub.
 - [Softagram](https://softagram.com/) Automated code change visualization (and dependency analytics) for pull requests, merge requests (GitLab) and patch sets (Gerrit).
 - [SonarCloud](https://sonarcloud.io) Detect code smells, bugs and vulnerabilities in Azure DevOps, Bitbucket and GitHub repositories.
