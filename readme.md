@@ -7,8 +7,7 @@
 Code review is the systematic examination (sometimes referred to as peer review) of computer source code.
 
 ## Contents
-
-- [Awesome Code Review ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-code-review-)
+- [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 - [Contents](#contents)
 - [Academic Papers](#academic-papers)
 - [Articles](#articles)
