@@ -78,6 +78,7 @@ Code review is the systematic examination (sometimes referred to as peer review)
 
 ## Tools
 
+- [AI Code Reviewer](https://github.com/avatrix1/ai-code-reviewer) Free GitHub Action that uses Claude AI to review pull requests and post inline comments on bugs, security issues, and performance problems.
 - [Axolo](https://www.axolo.co) Github/GitLab Slack integration. Create one ephemeral channel per pull request/ merge request.
 - [Crucible](https://www.atlassian.com/software/crucible) Atlassian's on-premise code review tool.
 - [Gerrit](https://www.gerritcodereview.com/) Open source git code review tool originating out of Google.
