@@ -6,6 +6,7 @@
 
 Code review is the systematic examination (sometimes referred to as peer review) of computer source code.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for automated code review orchestration, quality gate management, and multi-agent coordination. MIT licensed.
 ## Contents
 
 - [Awesome Code Review ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-code-review-)
