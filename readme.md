@@ -93,6 +93,7 @@ Code review is the systematic examination (sometimes referred to as peer review)
 - [Softagram](https://softagram.com/) Automated code change visualization (and dependency analytics) for pull requests, merge requests (GitLab) and patch sets (Gerrit).
 - [SonarCloud](https://sonarcloud.io) Detect code smells, bugs and vulnerabilities in Azure DevOps, Bitbucket and GitHub repositories.
 - [Upsource](https://www.jetbrains.com/upsource/) JetBrain's on-premise git/mercurial/perforce/svn code review tool.
+- [VulnHawk](https://github.com/momenbasel/vulnhawk) AI-powered security code review tool that detects auth gaps, IDOR, and business logic flaws. Available as CLI and GitHub Action with SARIF output.
 - [Viezly](https://viezly.com) Code review service with pull request visualization and enhanced navigation between changes.
 
 ## Contribute
