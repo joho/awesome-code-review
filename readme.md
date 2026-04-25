@@ -84,6 +84,7 @@ Code review is the systematic examination (sometimes referred to as peer review)
 - [GitHub](https://github.com) Git hosting and pioneer of the "Pull Request".
 - [Gitpod](https://gitpod.io) Code review pull requests in a full IDE within your browser.
 - [LGTM](https://lgtm.com) Automated Git code review for GitHub and Bitbucket pull requests for finding security vulnerabilities and code quality issues.
+- [Octopus Review](https://octopus-review.ai) Open-source, self-hostable AI code review for GitHub and Bitbucket pull requests with RAG-powered codebase context.
 - [Phabricator](https://www.phacility.com/phabricator/) Open source git/mercurial/svn code review tool originating out of Facebook.
 - [PullNotifier](https://www.pullnotifier.com/) Improve pull request visibility and overall productivity for dev teams using Github and Slack.
 - [PullRequest](https://www.pullrequest.com/) Code review as a service for GitHub pull requests.
