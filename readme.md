@@ -79,6 +79,7 @@ Code review is the systematic examination (sometimes referred to as peer review)
 ## Tools
 
 - [Axolo](https://www.axolo.co) Github/GitLab Slack integration. Create one ephemeral channel per pull request/ merge request.
+- [brooks-lint](https://github.com/hyhmrright/brooks-lint) AI code review plugin for Claude Code, Gemini CLI and Codex that diagnoses decay risks against twelve classic software engineering books, citing each finding to its source and scoring codebase health from 0 to 100.
 - [Crucible](https://www.atlassian.com/software/crucible) Atlassian's on-premise code review tool.
 - [Gerrit](https://www.gerritcodereview.com/) Open source git code review tool originating out of Google.
 - [GitHub](https://github.com) Git hosting and pioneer of the "Pull Request".
