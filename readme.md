@@ -77,6 +77,7 @@ Code review is the systematic examination (sometimes referred to as peer review)
 - [Michaela Greiler on Code Reviews - SE Radio 2020](https://www.se-radio.net/2020/02/episode-400-michaela-greiler-on-code-reviews/) Michaela Greiler discusses the importance of code reviews and how to conduct them on the Software Engineering Radio podcast.
 
 ## Tools
+- [BreakShield CI](https://breakshield-ci.vercel.app) - GitHub App that detects breaking API changes in PRs using AST analysis. Posts findings with confidence levels and offers AI-generated fixes via `/fix` command.
 
 - [Axolo](https://www.axolo.co) Github/GitLab Slack integration. Create one ephemeral channel per pull request/ merge request.
 - [Crucible](https://www.atlassian.com/software/crucible) Atlassian's on-premise code review tool.
