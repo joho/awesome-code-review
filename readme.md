@@ -78,6 +78,9 @@ Code review is the systematic examination (sometimes referred to as peer review)
 
 ## Tools
 
+- [PR Pilot](https://github.com/tcconnally/pr-pilot) - AI-native code quality service. 5 autonomous agents (Reviewer, Fixer, Tester, Verifier, Escalator) handle the entire PR review pipeline.
+
+
 - [Axolo](https://www.axolo.co) Github/GitLab Slack integration. Create one ephemeral channel per pull request/ merge request.
 - [Crucible](https://www.atlassian.com/software/crucible) Atlassian's on-premise code review tool.
 - [Gerrit](https://www.gerritcodereview.com/) Open source git code review tool originating out of Google.
