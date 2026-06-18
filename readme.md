@@ -94,6 +94,7 @@ Code review is the systematic examination (sometimes referred to as peer review)
 - [SonarCloud](https://sonarcloud.io) Detect code smells, bugs and vulnerabilities in Azure DevOps, Bitbucket and GitHub repositories.
 - [Upsource](https://www.jetbrains.com/upsource/) JetBrain's on-premise git/mercurial/perforce/svn code review tool.
 - [Viezly](https://viezly.com) Code review service with pull request visualization and enhanced navigation between changes.
+- [Maestro Guard](https://ivo1974kanchev-arch.github.io/maestro-pages/) Automated code analysis tool that runs a 14-point Guardian pipeline on AI-generated code. Catches bugs Cursor, Claude Code, and Copilot miss. Zero dependencies, pure Python.
 
 ## Contribute
 
