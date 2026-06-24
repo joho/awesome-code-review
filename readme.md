@@ -89,6 +89,7 @@ Code review is the systematic examination (sometimes referred to as peer review)
 - [PullRequest](https://www.pullrequest.com/) Code review as a service for GitHub pull requests.
 - [Reviewable](https://reviewable.io/) Code review tool built on top of GitHub pull requests.
 - [Review Board](https://www.reviewboard.org/) Open source review tool that is SCM/platform neutral.
+- [River Review](https://github.com/s977043/river-review) Open source framework that runs review standards as versioned, repo-owned skills across plans, diffs, tests, and prior reviews.
 - [Sider](https://sider.review/) Automated code review service for GitHub.
 - [Softagram](https://softagram.com/) Automated code change visualization (and dependency analytics) for pull requests, merge requests (GitLab) and patch sets (Gerrit).
 - [SonarCloud](https://sonarcloud.io) Detect code smells, bugs and vulnerabilities in Azure DevOps, Bitbucket and GitHub repositories.
