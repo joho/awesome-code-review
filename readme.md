@@ -87,6 +87,7 @@ Code review is the systematic examination (sometimes referred to as peer review)
 - [Phabricator](https://www.phacility.com/phabricator/) Open source git/mercurial/svn code review tool originating out of Facebook.
 - [PullNotifier](https://www.pullnotifier.com/) Improve pull request visibility and overall productivity for dev teams using Github and Slack.
 - [PullRequest](https://www.pullrequest.com/) Code review as a service for GitHub pull requests.
+- [Pyor](https://pyor.review) Web and desktop app for reviewing GitHub pull requests, built to keep large diffs navigable.
 - [Reviewable](https://reviewable.io/) Code review tool built on top of GitHub pull requests.
 - [Review Board](https://www.reviewboard.org/) Open source review tool that is SCM/platform neutral.
 - [Sider](https://sider.review/) Automated code review service for GitHub.
