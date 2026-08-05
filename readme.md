@@ -94,6 +94,7 @@ Code review is the systematic examination (sometimes referred to as peer review)
 - [SonarCloud](https://sonarcloud.io) Detect code smells, bugs and vulnerabilities in Azure DevOps, Bitbucket and GitHub repositories.
 - [Upsource](https://www.jetbrains.com/upsource/) JetBrain's on-premise git/mercurial/perforce/svn code review tool.
 - [Viezly](https://viezly.com) Code review service with pull request visualization and enhanced navigation between changes.
+- [ts-auntie-review](https://github.com/jianglinguan9-dot/ts-auntie-review) TypeScript code review Agent Skill with a Chinese neighborhood auntie persona. Six audit dimensions, 100-point scoring, git diff batch review. Supports Claude Code, Cursor, Copilot, and 6 more AI tools.
 
 ## Contribute
 
