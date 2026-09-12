@@ -83,6 +83,7 @@ Code review is the systematic examination (sometimes referred to as peer review)
 - [Gerrit](https://www.gerritcodereview.com/) Open source git code review tool originating out of Google.
 - [GitHub](https://github.com) Git hosting and pioneer of the "Pull Request".
 - [Gitpod](https://gitpod.io) Code review pull requests in a full IDE within your browser.
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) Open source review loop and verification platform with an amazing UI, handling isolated worktrees and automated verification gates.
 - [LGTM](https://lgtm.com) Automated Git code review for GitHub and Bitbucket pull requests for finding security vulnerabilities and code quality issues.
 - [Phabricator](https://www.phacility.com/phabricator/) Open source git/mercurial/svn code review tool originating out of Facebook.
 - [PullNotifier](https://www.pullnotifier.com/) Improve pull request visibility and overall productivity for dev teams using Github and Slack.
