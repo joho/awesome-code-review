@@ -78,6 +78,7 @@ Code review is the systematic examination (sometimes referred to as peer review)
 
 ## Tools
 
+- [AI Code Detector](https://ismycodeai.com) Browser-based heuristic that highlights configured code-style signals and matching lines; it does not determine authorship.
 - [Axolo](https://www.axolo.co) Github/GitLab Slack integration. Create one ephemeral channel per pull request/ merge request.
 - [Crucible](https://www.atlassian.com/software/crucible) Atlassian's on-premise code review tool.
 - [Gerrit](https://www.gerritcodereview.com/) Open source git code review tool originating out of Google.
