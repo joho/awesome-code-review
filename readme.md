@@ -55,6 +55,7 @@ Code review is the systematic examination (sometimes referred to as peer review)
 - [Pull Requests: How to Get and Give Good Feedback](https://kickstarter.engineering/pull-requests-how-to-get-and-give-good-feedback-f573469f0c44) Advice for both sides of the code review process, the reviewer and the reviewee.
 - [Ship Small Diffs](https://blog.skyliner.io/ship-small-diffs-741308bec0d1) Why it's better to review small changes rather than large ones.
 - [Stacked Pull Requests: Keeping GitHub Diffs Small](https://graysonkoonce.com/stacked-pull-requests-keeping-github-diffs-small/) A step-by-step process to split big PRs and increase review engagement.
+- [STOP conditions before you merge an AI agent PR](https://chopragunji.gumroad.com/l/zpnmdn) Free one-pager on when to refuse an AI-written pull request even if CI is green.
 - [The Art of Humanizing Pull Requests](https://blog.usejournal.com/the-art-of-humanizing-pull-requests-prs-b520588eb345) Emoji rich guide to the human side of code review via pull requests.
 - [Towards Productive Technical Discussions](https://cate.blog/2018/07/03/towards-productive-technical-discussions/) Tactical questions and actions to push code review discussions into a more productive territory.
 - [Unlearning Toxic Behaviors in a Code Review Culture](https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c) A how-to guide for pull requests via how-not-too.
