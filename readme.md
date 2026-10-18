@@ -92,6 +92,7 @@ Code review is the systematic examination (sometimes referred to as peer review)
 - [Sider](https://sider.review/) Automated code review service for GitHub.
 - [Softagram](https://softagram.com/) Automated code change visualization (and dependency analytics) for pull requests, merge requests (GitLab) and patch sets (Gerrit).
 - [SonarCloud](https://sonarcloud.io) Detect code smells, bugs and vulnerabilities in Azure DevOps, Bitbucket and GitHub repositories.
+- [Turbo Flow](https://github.com/marcuspat/turbo-flow) A fail-closed review gate for AI-written code: a reviewer model from a different family than the builder must approve each change.
 - [Upsource](https://www.jetbrains.com/upsource/) JetBrain's on-premise git/mercurial/perforce/svn code review tool.
 - [Viezly](https://viezly.com) Code review service with pull request visualization and enhanced navigation between changes.
 
