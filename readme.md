@@ -80,6 +80,7 @@ Code review is the systematic examination (sometimes referred to as peer review)
 
 - [Axolo](https://www.axolo.co) Github/GitLab Slack integration. Create one ephemeral channel per pull request/ merge request.
 - [Crucible](https://www.atlassian.com/software/crucible) Atlassian's on-premise code review tool.
+- [DiffNotes](https://github.com/igorkasyanchuk/diffnotes) Open source server and browser extension that shows notes, screenshots and small demos written by the PR's coding agent inline in GitHub, GitLab and Bitbucket diffs.
 - [Gerrit](https://www.gerritcodereview.com/) Open source git code review tool originating out of Google.
 - [GitHub](https://github.com) Git hosting and pioneer of the "Pull Request".
 - [Gitpod](https://gitpod.io) Code review pull requests in a full IDE within your browser.
