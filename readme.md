@@ -85,6 +85,7 @@ Code review is the systematic examination (sometimes referred to as peer review)
 - [Gitpod](https://gitpod.io) Code review pull requests in a full IDE within your browser.
 - [LGTM](https://lgtm.com) Automated Git code review for GitHub and Bitbucket pull requests for finding security vulnerabilities and code quality issues.
 - [Phabricator](https://www.phacility.com/phabricator/) Open source git/mercurial/svn code review tool originating out of Facebook.
+- [Patch Conflict Classifier](https://johnveds15-patch-conflict-classifier.static.hf.space?utm_source=github&utm_medium=social&utm_campaign=go-m18) AI tool that classifies whether a patch or diff will introduce merge conflicts before it is applied.
 - [PullNotifier](https://www.pullnotifier.com/) Improve pull request visibility and overall productivity for dev teams using Github and Slack.
 - [PullRequest](https://www.pullrequest.com/) Code review as a service for GitHub pull requests.
 - [Reviewable](https://reviewable.io/) Code review tool built on top of GitHub pull requests.
