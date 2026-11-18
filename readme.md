@@ -78,6 +78,7 @@ Code review is the systematic examination (sometimes referred to as peer review)
 
 ## Tools
 
+- [Altanix](https://altanix.dev) Privacy-first architectural code review and security assistant built in Rust, featuring AST blast-radius visualization, hot-path allocation radar, and free sponsorships for open-source projects.
 - [Axolo](https://www.axolo.co) Github/GitLab Slack integration. Create one ephemeral channel per pull request/ merge request.
 - [Crucible](https://www.atlassian.com/software/crucible) Atlassian's on-premise code review tool.
 - [Gerrit](https://www.gerritcodereview.com/) Open source git code review tool originating out of Google.
